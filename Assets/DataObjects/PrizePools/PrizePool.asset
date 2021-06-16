@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6de89eb9f4ba44eabd915a6c70b57b3, type: 3}
+  m_Name: PrizePool
+  m_EditorClassIdentifier: 
+  prizes:
+  - prize: {fileID: 11400000, guid: 08803afb34f0e497c9652582fd224a06, type: 2}
+    probability: 0.2
+  - prize: {fileID: 11400000, guid: 2e13bc4254dcc458c8960f2268f74243, type: 2}
+    probability: 0.1
+  - prize: {fileID: 11400000, guid: 8eeab9d7c8e8241d4b9cd00223593b49, type: 2}
+    probability: 0.1
+  - prize: {fileID: 11400000, guid: 2cc403e8e434149bd87e15c6b73b0223, type: 2}
+    probability: 0.1
+  - prize: {fileID: 11400000, guid: 18a0334d9d4f6463cbf4ccd8e596a6e9, type: 2}
+    probability: 0.05
+  - prize: {fileID: 11400000, guid: 745355135f2b94f67aebd495e6ed4286, type: 2}
+    probability: 0.2
+  - prize: {fileID: 11400000, guid: 38a29503463c44efb9fa3b354cfc7d31, type: 2}
+    probability: 0.05
+  - prize: {fileID: 11400000, guid: d9ddcf444357a4343905eeb4e297b12c, type: 2}
+    probability: 0.2
